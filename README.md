@@ -2,7 +2,7 @@
 
 ### Initialize local repository ###
 ```
-repo init -u https://github.com/PixelOS-AOSP/manifest -b twelve
+repo init -u https://github.com/duli95/PixelOS-manifest -b twelve
 ```
 
 ### Sync ###
